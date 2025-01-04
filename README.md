@@ -2,7 +2,7 @@ Hi 👋, I'm Oktay Kaplan!
 
 A Computer Engineering Student from Hacettepe University - Ankara/Turkey
 
-🌱 I’m currently learning Python, Java, JavaScript and C++.
+🌱 I’m currently learning Python, Java and C++.
 
 🔭 I’m currently working on Web Development and Machine Learning,Data Science.
 
